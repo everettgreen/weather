@@ -17,7 +17,7 @@
         "minphp/container": "dev-master",
         "minphp/date": "dev-master",
         "minphp/form": "dev-master",
-        "minphp/html": "dev-master",
+        "minphp/html": "~1.0",
         "minphp/input": "dev-master",
         "minphp/language": "dev-master",
         "minphp/pagination": "dev-master",
